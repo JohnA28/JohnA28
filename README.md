@@ -1,5 +1,7 @@
 ### Hey, I'm John 👋🏽
 
+I live in The Bronx, New York. I love music, video games, food, and Anime
+
 
 ## Reach me
 <a href="https://www.linkedin.com/in/john-a-b36974116/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=black&style=flat-square"></a> <a href="mailto:john.alban41@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?logo=Gmail&logoColor=black&style=flat-square"></a>
