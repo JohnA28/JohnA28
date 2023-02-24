@@ -1,6 +1,6 @@
 ### Hey, I'm John 👋🏽
 
-I live in New York City. I love music, video games, food, and Anime
+I live in New York City. I love music, video games, food, and anime
 
 
 ## Reach me
